@@ -73,3 +73,5 @@ position = journalists.index("@epenser")
 
 # Affichage de la position du pseudo '@epenser' dans le tableau original
 puts ("Le pseudo Twitter '@epenser' est à la position #{position} dans le tableau original.")
+
+
